@@ -1,0 +1,6 @@
+{
+  "accessKeyId": "AKIAJSJ4OSHN6CL5BAFQ",
+  "secretAccessKey": "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",
+  "host":"http://s3.amazonaws.com",
+  "sslEnabled": false
+}
